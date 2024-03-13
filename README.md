@@ -1,3 +1,5 @@
+# GENERATE QRCODE 
+
 ![Tux, Logo](logo.png)
 
 ## An application to generate qr code from web view. Made with fastapi.
